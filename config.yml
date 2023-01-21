@@ -1,0 +1,52 @@
+baseURL: localhost:8000
+languageCode: 'pt-br'
+title: Erick Bessa
+theme: "PaperMod"
+
+params:
+    env: development #production
+    defaultTheme: auto
+    
+    profileMode:
+        enabled: true
+        title: "Erick Bessa"
+        subtitle: "Software Develop"
+        imageUrl: "https://erickbessa.net/wp-content/uploads/2023/01/Perfil-150x150.jpg" # optional
+        imageTitle: "Foto de perfil de Erick Bessa" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Posts
+              url: "/archives/"
+
+    socialIcons: # optional
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/erick-bessa-728940b4/"
+        - name: github
+          url: "https://github.com/ErickBessa"
+        - name: "email"
+          url: "mailto:erick.bessa96@gmail.com"
+    ShowShareButtons: false
+    ShowReadingTime: true
+    ShowToc: false #Table of Contents
+    TocOpen: false #Expand TOC
+    ShowPostNavLinks: false #Adiciona uma sugestão de postagem anterior/próxima em uma única postagem
+    ShowCodeCopyButtons: true
+    DateFormat: "2006-01-02"
+    defaultTheme: auto
+    comments: false
+    hideFooter: false
+    
+menu:
+  main:
+    - identifier: Sobre Mim
+      name: Sobre Mim
+      url: /about/
+      weight: 20
+    
+    - identifier: Blog
+      name: Blog
+      url: /archives/
+      weight: 20
+    
+   
