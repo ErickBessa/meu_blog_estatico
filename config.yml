@@ -17,7 +17,7 @@ params:
         imageHeight: 240 # custom size
         buttons:
             - name: Posts
-              url: "/archives/"
+              url: "/posts/"
 
     socialIcons: # optional
         - name: "linkedin"
@@ -46,7 +46,7 @@ menu:
     
     - identifier: Blog
       name: Blog
-      url: /archives/
+      url: /posts/
       weight: 20
     
    
