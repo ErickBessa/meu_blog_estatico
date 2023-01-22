@@ -15,9 +15,9 @@ params:
         imageTitle: "Foto de perfil de Erick Bessa" # optional
         imageWidth: 240 # custom size
         imageHeight: 240 # custom size
-        buttons:
-            - name: Posts
-              url: /archives
+        #buttons:
+            #- name: Posts
+              #url: /archives
 
     socialIcons: # optional
         - name: "linkedin"
