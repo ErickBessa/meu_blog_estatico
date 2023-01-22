@@ -5,7 +5,7 @@ draft: false
 author: ["Erick Bessa"]
 
 cover:
-    image: "/foto-perfil.jpg"
+    image: "foto-perfil.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Meu primeiro post"
