@@ -17,7 +17,7 @@ params:
         imageHeight: 240 # custom size
         buttons:
             - name: Posts
-              url: "/posts/"
+              url: /posts/
 
     socialIcons: # optional
         - name: "linkedin"
