@@ -6,7 +6,7 @@ author: Erick Bessa
 ---
 
 ## Sobre mim
-![Imagem de Perfil de Erick Bessa](https://erickbessa.net/wp-content/uploads/2023/01/Perfil-150x150.jpg#center)
+![Imagem de Perfil de Erick Bessa](/foto-perfil.jpg#center)
 Olá! Me chamo Erick, desenvolvedor de softwares com mais de 3 anos de experiência no mercado. Já trabalhei com linguagens como C#, Python e Sql, criando sistemas dos mais diversos. Fui TOP100 da maratona IBM 2021, uma competição que desafia desenvolvedores da LATAM a criar soluções para problemas reais.
 
 Atualmente estou estudando `AWS` e nas horas vagas escrevo para meu [blog](/archives).

@@ -11,10 +11,10 @@ params:
         enabled: true
         title: "Erick Bessa"
         subtitle: "Software Develop"
-        imageUrl: "https://erickbessa.net/wp-content/uploads/2023/01/Perfil-150x150.jpg" # optional
+        imageUrl: "foto-perfil.jpg" # optional
         imageTitle: "Foto de perfil de Erick Bessa" # optional
-        imageWidth: 120 # custom size
-        imageHeight: 120 # custom size
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
         buttons:
             - name: Posts
               url: "/archives/"
