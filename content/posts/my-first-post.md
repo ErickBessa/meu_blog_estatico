@@ -1,11 +1,11 @@
 ---
 title: "Meu primeiro post"
 date: 2023-01-21T12:12:30-03:00
-draft: true
+draft: false
 author: ["Erick Bessa"]
 
 cover:
-    image: "https://erickbessa.net/wp-content/uploads/2023/01/Perfil-150x150.jpg"
+    image: "/foto-perfil.jpg"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "Meu primeiro post"
