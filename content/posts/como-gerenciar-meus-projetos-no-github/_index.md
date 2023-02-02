@@ -36,13 +36,13 @@ Depois que essa funcionalidade está pronta, peço o _merge request_ da branch `
 ## Como gerencio tarefas
 Para as tarefas a serem feitas, gosto de criar uma _issue_ com _checkbox_ para cada tarefa, sempre em ordem de prioridade para facilitar:
 
-![Minhas issues](./images/3/issues.png#center)
+![Minhas issues](issues.png#center)
 
 Dessa forma consigo controlar o que tem que ser feito, principalmente quando é um projeto _freelancer_ que tem muita demanda.
 
 Quando encontro um _bug_ ou preciso criar uma nova _feature_, cadastro uma _issue_ e atríbuo uma identificação à ela do tipo `warning`, `bug` ou `feat`:
 
-![Minhas issues](./images/3/labels.png#center)
+![Minhas issues](labels.png#center)
 
 Obs.: Podemos criar uma _branch_ para resolver cada _issue_.
 
