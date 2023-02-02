@@ -7,7 +7,7 @@ title: "Como gerenciar meus projetos no github"
 date: 2023-01-30T19:40:30-03:00
 ---
 
-# Como gerenciar meus projetos no github
+# Como gerencio meus projetos no github
 
 Olá, galera.
 
