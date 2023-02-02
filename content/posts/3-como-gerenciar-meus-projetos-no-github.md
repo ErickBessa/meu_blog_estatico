@@ -3,7 +3,7 @@ url: "/como-gerencio-meus-projetos-no-github/"
 summary: "Como gerencio meus projetos no github"
 author: Erick Bessa
 draft: False
-title: "Como gerenciar meus projetos no github"
+title: "Como gerencio meus projetos no github"
 date: 2023-01-30T19:40:30-03:00
 ---
 
