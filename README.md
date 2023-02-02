@@ -1,3 +1,5 @@
 # Meu blog estático
+ 
+Este é meu blog estático criado com o framework [Hugo](https://gohugo.io/), usando o tema [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
-Estou iniciando a crição de um blog estático com o framework [Hugo](https://gohugo.io/) e [esse](https://github.com/adityatelange/hugo-PaperMod) é meu tema escolhido.
+[![Deploy Hugo site to Pages](https://github.com/ErickBessa/meu_blog_estatico/actions/workflows/hugo.yml/badge.svg)](https://github.com/ErickBessa/meu_blog_estatico/actions/workflows/hugo.yml)
