@@ -13,10 +13,10 @@ Olá, galera.
 
 Sou desenvolvedor backend com mais de 3 anos de experiência.
 
-Em boa parte da minha carreira, sempre procurei manter meu código no github de forma organizada e bem documentada, seja para recapitulação/reprodução futura ou por uma necessidade de negócios (projetos freelances). Pois bem, durante esse processo além de documentar, fui aprendendo as formas de gerenciar um projeto, pessoal ou não, pequeno ou grande, e nesse artigo vou compartilhar um pouco desses aprendizados.
+Em boa parte da minha carreira, sempre procurei manter meus códigos no github de forma organizada e bem documentada, seja para recapitulação/reprodução futura ou por uma necessidade de negócios (projetos freelances). Pois bem, durante esse processo além de documentar, fui aprendendo as formas de gerenciar um projeto, pessoal ou não, pequeno ou grande, e nesse artigo vou compartilhar um pouco desses aprendizados com vocês.
 
 
-## Como inicio o projeto
+## Como inicío o projeto
 
 No início do projeto, costumo fazer a quantidade mínima de código na máquina para depois criar um repo no github. Esse mínimo pode ser um `HelloWorld` em qualquer linguagem. 
 
@@ -26,9 +26,9 @@ logo em seguida crio meu repositório no github e sincronizo com o projeto da mi
 
 ## Como gerencio branchs
 
-Uma boa prática para a se considerar é não fazer commit direto na branch `master/main`, portanto crio uma branch `develop` e trabalho sempre nela, pedindo _merge request_ da `develop` para a `master` a cada alteração importante de códgio.
+Uma boa prática para a se considerar é não fazer commit direto na branch `master/main`, portanto crio uma branch `develop` e trabalho sempre nela, pedindo _merge request_ da `develop` para a `master` a cada alteração importante de código.
 
-Outra maneira de gerenciar branchs é criar uma para cada `fix`,`feat` ou `issue` que adicionarmos ao projetos, por exemplo:
+Outra maneira de gerenciar branchs é criar uma para cada `fix`,`feat` ou `issue` que adicionarmos ao projetos. Por exemplo:
 
 - adicionar botão na homepage - 
 `branch: <feat> add button in homepage`
@@ -36,17 +36,17 @@ Outra maneira de gerenciar branchs é criar uma para cada `fix`,`feat` ou `issue
 Depois que essa funcionalidade está pronta, peço o _merge request_ da branch `<feat> add button in homepage` para a `master`.
 
 ## Como gerencio tarefas
-Para as tarefas a serem feitas, gosto de criar uma _issue_ com checkbox para cada tarefa, sempre em ordem de prioridade para facilitar:
+Para as tarefas a serem feitas, gosto de criar uma _issue_ com _checkbox_ para cada tarefa, sempre em ordem de prioridade para facilitar:
 
 ![Minhas issues](./images/3/issues.png#center)
 
-Dessa forma consigo controlar o que tem que ser feito, principalmente quando é um projeto freelancer que tem muita demanda.
+Dessa forma consigo controlar o que tem que ser feito, principalmente quando é um projeto _freelancer_ que tem muita demanda.
 
-Quando encontro _bug_ ou preciso criar uma nova _feature_, cadastro uma issue e atríbuo uma identificação à ela do tipo `warning`, `bug` ou `feat`:
+Quando encontro um _bug_ ou preciso criar uma nova _feature_, cadastro uma _issue_ e atríbuo uma identificação à ela do tipo `warning`, `bug` ou `feat`:
 
 ![Minhas issues](./images/3/labels.png#center)
 
-O mais ideal aqui é criar uma branch para resolver cada _issue_.
+Obs.: Podemos criar uma _branch_ para resolver cada _issue_.
 
 ## Como escrevo minhas mensagens de commits
 Gosto de seguir a [convenção de commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) para ter commits mais padronizados.
@@ -58,4 +58,6 @@ Gosto de seguir a [convenção de commits](https://www.conventionalcommits.org/e
 - Para refatoração: `<refactor> commit message`.
 
 # Conclusão
-Minha intenção aqui era passar uma idéia básica de como pode ser feito o gerenciamento de projetos pessoais no gitub. 
+Minha intenção aqui era passar uma idéia básica de como pode ser feito o gerenciamento de projetos pessoais/profissionais no gitub com base na minha experiência. Elas podem ser adaptadas a cada necessidade.
+
+Obrigado por ter lido até aqui, abraços.
