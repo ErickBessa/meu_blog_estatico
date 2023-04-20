@@ -10,7 +10,7 @@ params:
     profileMode:
         enabled: true
         title: "Erick Bessa"
-        subtitle: "Software Develop"
+        subtitle: "Software Developer"
         imageUrl: "foto-perfil.jpg" # optional
         imageTitle: "Foto de perfil de Erick Bessa" # optional
         imageWidth: 240 # custom size
@@ -26,7 +26,7 @@ params:
           url: "https://github.com/ErickBessa"
         - name: "email"
           url: "mailto:erick.bessa96@gmail.com"
-    ShowShareButtons: false
+    ShowShareButtons: true
     ShowReadingTime: true
     ShowToc: false #Table of Contents
     TocOpen: false #Expand TOC
